@@ -1,3 +1,23 @@
+@font-face {
+  font-family: lexicon;
+  src: url(../public/fonts/Lexico-Regular.otf);
+}
+
+@font-face {
+  font-family: hammer;
+  src: url(../public/fonts/HammersmithOne-Regular.ttf);
+}
+
+
+
+
+h1 {
+  color: red;
+  font-family: lexicon;
+}
+
+
+
 html,
 body {
   padding: 0;
@@ -14,3 +34,5 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
